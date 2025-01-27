@@ -6,7 +6,7 @@ import numpy as np
 from PIL import Image
 
 brain=load_model(r'C:\Users\USER\Documents\vscode\health diagnis model\brain_tumor_image_model3.h5')
-kidney=load_model(r'C:\Users\USER\Documents\vscode\health diagnis model\kideney_stone_cnn_model3.h5')
+kidney=load_model('kideney_stone_cnn_model3.h5')
 lungs=load_model('lungs cancer cnn model3.h5')
 
 with st.sidebar:
