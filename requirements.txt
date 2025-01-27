@@ -5,5 +5,5 @@ numpy==1.26.4
 streamlit==1.41.0
 streamlit-option-menu==0.4.0
 pillow==11.0.0
-tensoflow==2.18.0
+
 matplotlib==3.9.2
